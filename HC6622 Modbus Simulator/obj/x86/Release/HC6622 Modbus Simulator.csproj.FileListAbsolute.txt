@@ -1,0 +1,44 @@
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.exe.config
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.exe.manifest
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.application
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.exe
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.pdb
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622 Modbus Simulator.csprojResolveAssemblyReference.cache
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622_Modbus_Simulator.AboutBox1.resources
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622_Modbus_Simulator.XSIM.resources
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622_Modbus_Simulator.Properties.Resources.resources
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622 Modbus Simulator.csproj.GenerateResource.Cache
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.TrustInfo.xml
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.exe.manifest
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.application
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.exe
+C:\Users\495264\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.pdb
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.exe.config
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.exe.manifest
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.application
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.exe
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.pdb
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622_Modbus_Simulator.AboutBox1.resources
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622_Modbus_Simulator.XSIM.resources
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622_Modbus_Simulator.Properties.Resources.resources
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622 Modbus Simulator.csproj.GenerateResource.Cache
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.TrustInfo.xml
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.exe.manifest
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.application
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.exe
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.pdb
+E:\GoogleDrive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622 Modbus Simulator.csprojResolveAssemblyReference.cache
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.exe.config
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.exe.manifest
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.application
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.exe
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\bin\Release\DPT X-Simulator.pdb
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622_Modbus_Simulator.AboutBox1.resources
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622_Modbus_Simulator.XSIM.resources
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622_Modbus_Simulator.Properties.Resources.resources
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\HC6622 Modbus Simulator.csproj.GenerateResource.Cache
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.TrustInfo.xml
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.exe.manifest
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.application
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.exe
+C:\Users\nutta\Google Drive\All Work\Development\BegVCSharp\Chapter02\HC6622 Modbus Simulator\HC6622 Modbus Simulator\obj\x86\Release\DPT X-Simulator.pdb
